@@ -22,7 +22,7 @@ A modern quiz application built with Python and Tkinter that tests your knowledg
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/momed-ali/quizzler_app.git
+git clone https://github.com/<username>/quizzler_app.git
 cd quizzler_app
 ```
 
